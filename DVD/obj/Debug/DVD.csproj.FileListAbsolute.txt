@@ -1,0 +1,16 @@
+C:\Users\ajhzh\Desktop\公众号\dvd\DVD\bin\Debug\DVD.exe.config
+C:\Users\ajhzh\Desktop\公众号\dvd\DVD\bin\Debug\DVD.exe
+C:\Users\ajhzh\Desktop\公众号\dvd\DVD\bin\Debug\DVD.pdb
+C:\Users\ajhzh\Desktop\公众号\dvd\DVD\obj\Debug\DVD.csprojAssemblyReference.cache
+C:\Users\ajhzh\Desktop\公众号\dvd\DVD\obj\Debug\MainWindow.g.cs
+C:\Users\ajhzh\Desktop\公众号\dvd\DVD\obj\Debug\App.g.cs
+C:\Users\ajhzh\Desktop\公众号\dvd\DVD\obj\Debug\DVD_MarkupCompile.cache
+C:\Users\ajhzh\Desktop\公众号\dvd\DVD\obj\Debug\DVD_MarkupCompile.lref
+C:\Users\ajhzh\Desktop\公众号\dvd\DVD\obj\Debug\MainWindow.baml
+C:\Users\ajhzh\Desktop\公众号\dvd\DVD\obj\Debug\DVD.g.resources
+C:\Users\ajhzh\Desktop\公众号\dvd\DVD\obj\Debug\DVD.Properties.Resources.resources
+C:\Users\ajhzh\Desktop\公众号\dvd\DVD\obj\Debug\DVD.csproj.GenerateResource.cache
+C:\Users\ajhzh\Desktop\公众号\dvd\DVD\obj\Debug\DVD.exe
+C:\Users\ajhzh\Desktop\公众号\dvd\DVD\obj\Debug\DVD.pdb
+C:\Users\ajhzh\Desktop\公众号\dvd\DVD\obj\Debug\author.g.cs
+C:\Users\ajhzh\Desktop\公众号\dvd\DVD\obj\Debug\author.baml
